@@ -1,0 +1,1 @@
+Please create new database named java_messenger and import the java_messenger.sql dump
